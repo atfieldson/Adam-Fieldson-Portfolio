@@ -190,3 +190,10 @@ a {
 a:hover, a:focus, a:active {
   color: #00728C;
 }
+
+.resume-img {
+  height: 4rem;
+  margin-top: .4rem;
+  margin-right: 1rem;
+}
+
